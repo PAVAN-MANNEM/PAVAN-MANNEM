@@ -1,4 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is PAVAN MANNEM ====================================================================================================================================  Software Developer ------------------  I am a software engineer with experience in C, C++, DSA, Java, Python, SQL, R, and Web Development.  * 🌍  I'm based in Chennai * ✉️  You can contact me at [chinnimannem23@gmail.com](mailto:chinnimannem23@gmail.com) * 🧠  I'm learning Web Development * 🤝  I'm open to collaborating on Project * ⚡  I am passionate about building innovative and user-friendly software.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is PAVAN MANNEM ====================================================================================================================================  Software Developer 
+------------------  
+I am a software engineer with experience in C, C++, DSA, Java, Python, SQL, R, and Web Development. 
+* 🌍  I'm based in Chennai
+* ✉️  You can contact me at [chinnimannem23@gmail.com](mailto:chinnimannem23@gmail.com)
+* 🧠  I'm learning Web Development
+* 🤝  I'm open to collaborating on Project
+* ⚡  I am passionate about building innovative and user-friendly software.
 
 ### Skills  
 
