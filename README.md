@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Developer 
 ------------------  
-I am a software engineer with experience in C, C++, DSA, Java, Python, SQL, R, and Web Development. 
+
 * 🌍  I'm based in Chennai
 * ✉️  You can contact me at [chinnimannem23@gmail.com](mailto:chinnimannem23@gmail.com)
 * 🧠  I'm learning Web Development
