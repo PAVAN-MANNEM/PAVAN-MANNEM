@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer 
 ------------------  
 
-* 🌍  I'm based in Chennai
+* 🌍  I'm based in Vellore
 * ✉️  You can contact me at [chinnimannem23@gmail.com](mailto:chinnimannem23@gmail.com)
 * 🧠  I'm learning Web Development
 * 🤝  I'm open to collaborating on Project
